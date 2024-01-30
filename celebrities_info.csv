@@ -1,0 +1,6 @@
+name,gender,occupation,birthday,age
+lionel messi,male,['football_player'],1987-06-24,36
+selena gomez,female,"['singer', 'actor', 'fashion_designer', 'music_artist', 'voice_actor', 'dancer']",1992-07-22,31
+cristiano ronaldo,male,"['football_player', 'fashion_entrepreneur']",1985-02-05,38
+taylor lautner,male,"['actor', 'model', 'martial_artist', 'voice_actor']",1992-02-11,31
+manu ginobili,male,"['basketball_player', 'athlete']",1977-07-28,46
